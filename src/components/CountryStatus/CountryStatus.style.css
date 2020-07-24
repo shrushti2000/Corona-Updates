@@ -1,0 +1,16 @@
+ .card-title{
+    font-size: 30px;
+    font-family: 'Montaga', serif;
+    background-color:#374039;
+    opacity: 0.9;
+    color:white;
+}
+.card{
+    background-color:#374039 ;
+    opacity: 0.95;
+    
+}
+
+p{
+    color:white;
+}

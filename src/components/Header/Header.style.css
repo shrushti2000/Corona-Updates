@@ -1,0 +1,16 @@
+h1{
+    font-family: 'Montaga', serif;
+    color: ivory;
+    background-color:#374039;
+    opacity: 0.8;
+      
+}
+.btn{
+    background-color: black;
+}
+
+
+.input-group {
+    margin: 20px;
+    width:300px;
+}
